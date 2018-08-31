@@ -54,3 +54,4 @@ def return_wiki_pages(message):
 
 if __name__ == '__main__':
      bot.polling(none_stop=True)
+	a=1
