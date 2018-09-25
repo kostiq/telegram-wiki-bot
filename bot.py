@@ -13,7 +13,7 @@ bot = telebot.TeleBot(config.token)
 users_history = defaultdict(deque_10)
 
 user = bot.get_me()
-
+a=1
 history_template = 'Your last 10 request:\n{}'
 
 
